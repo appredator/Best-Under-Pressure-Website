@@ -2963,6 +2963,15 @@ input, select, textarea {
 
 			.image.main {
 				height: 20em;
+				
+			}
+
+			#banner {
+				/* height: auto; */
+				/* max-zoom: 25%; */
+				/* zoom: normal; */
+				/* min-zoom: 25%; */
+
 			}
 
 		/* Header */
